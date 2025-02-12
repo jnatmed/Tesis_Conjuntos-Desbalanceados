@@ -1,0 +1,18 @@
+Tiempos de ejecución de técnicas de balanceo:
+Random Under Sampling (RUS): 0.04 segundos
+
+Resultados de modelos ensamblados:
+
+Voting Classifier:
+Accuracy: 0.9939
+Precision: 1.0000
+Recall: 0.9878
+F1-Score: 0.9939
+AUC-ROC: 0.9939
+
+Stacking Classifier:
+Accuracy: 0.9817
+Precision: 0.9938
+Recall: 0.9695
+F1-Score: 0.9815
+AUC-ROC: 0.9817
