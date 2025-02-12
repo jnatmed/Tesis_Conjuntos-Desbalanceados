@@ -1,9 +1,9 @@
-Tiempos de ejecución de técnicas de balanceo:
-Random Under Sampling (RUS): 0.04 segundos
-Cluster Centroids (CC): 0.09 segundos
-Instance Hardness Threshold (IHT): 1.39 segundos
+Execution times for balancing techniques:
+Random Under Sampling (RUS): 0.03 seconds
+Cluster Centroids (CC): 0.09 seconds
+Instance Hardness Threshold (IHT): 1.38 seconds
 
-Resultados de modelos ensamblados:
+Results of ensemble models:
 
 Voting Classifier:
 Accuracy: 1.0000
