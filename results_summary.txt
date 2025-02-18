@@ -1,7 +1,7 @@
 Execution times for balancing techniques:
 Random Under Sampling (RUS): 0.03 seconds
 Cluster Centroids (CC): 0.09 seconds
-Instance Hardness Threshold (IHT): 1.38 seconds
+Instance Hardness Threshold (IHT): 1.34 seconds
 
 Results of ensemble models:
 
@@ -13,8 +13,8 @@ F1-Score: 1.0000
 AUC-ROC: 1.0000
 
 Stacking Classifier:
-Accuracy: 0.9756
-Precision: 0.9835
-Recall: 0.9675
-F1-Score: 0.9754
-AUC-ROC: 0.9756
+Accuracy: 0.9990
+Precision: 0.9980
+Recall: 1.0000
+F1-Score: 0.9990
+AUC-ROC: 0.9990
