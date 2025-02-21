@@ -1,0 +1,24 @@
+Execution time for TomekLinks:
+TomekLinks executed in 9.09 seconds.
+
+Voting Classifier:
+Accuracy: 0.9940
+Precision: 0.1582
+Recall: 0.5714
+F1-Score: 0.2478
+AUC-ROC: 0.7831
+
+Confusion Matrix (Voting Classifier):
+[[28283   149]
+ [   21    28]]
+
+Stacking Classifier:
+Accuracy: 0.9990
+Precision: 0.8000
+Recall: 0.5714
+F1-Score: 0.6667
+AUC-ROC: 0.7856
+
+Confusion Matrix (Stacking Classifier):
+[[28425     7]
+ [   21    28]]

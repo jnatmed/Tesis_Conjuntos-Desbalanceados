@@ -1,5 +1,7 @@
+RUS executed in 0.02 seconds.
+CC executed in 0.03 seconds.
+IHT executed in 0.69 seconds.
 Execution times for balancing techniques:
-SMOTE-ENN: 65.60 seconds
 
 Results of ensemble models:
 
@@ -10,9 +12,17 @@ Recall: 1.0000
 F1-Score: 1.0000
 AUC-ROC: 1.0000
 
+Confusion Matrix (Voting Classifier):
+[[246   0]
+ [  0 246]]
+
 Stacking Classifier:
-Accuracy: 1.0000
-Precision: 1.0000
-Recall: 0.9999
-F1-Score: 1.0000
-AUC-ROC: 1.0000
+Accuracy: 0.9939
+Precision: 0.9880
+Recall: 1.0000
+F1-Score: 0.9939
+AUC-ROC: 0.9939
+
+Confusion Matrix (Stacking Classifier):
+[[243   3]
+ [  0 246]]
